@@ -1,0 +1,9 @@
+# MacOS temp file
+.DS_Store
+
+# RStudio config files
+.RData
+.RHistory
+
+# Submissions
+*.pdf
